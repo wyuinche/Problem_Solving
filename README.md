@@ -39,3 +39,5 @@
 - book314 만들 수 없는 
 - book315 볼링공 고르기
 - book316_kakao 무지의 먹방 라이브
+- book322 문자열 재정렬
+- book323_kakao 문자열 압축
