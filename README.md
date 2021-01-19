@@ -45,3 +45,4 @@
 - book322 문자열 재정렬
 - book323_kakao 문자열 압축
 - book325_kakao 자물쇠와 열쇠
+- book329_kakao 기둥과 보 설치
