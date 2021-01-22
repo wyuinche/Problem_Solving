@@ -53,3 +53,4 @@
 - book329_kakao 기둥과 보 설치
 - book335_kakao 외벽 점검
 - book346_kakao 괄호 변환
+- book355_kakao 블록 
