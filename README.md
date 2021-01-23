@@ -57,4 +57,4 @@
 - book335_kakao 외벽 점검
 - book346_kakao 괄호 변환
 - book355_kakao 블록 
-- book361 실패율
+- book361_kakao 실패율
